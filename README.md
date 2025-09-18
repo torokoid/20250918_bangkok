@@ -172,7 +172,7 @@ p.note { display: none; }
 <h2><span class="yellow">材料屋さんには荷台に乗った作業員の皆様も集まります</span></h2>
 <a href="20250918_004.JPG" target="_blank"><img src="20250918_004.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">西の空に傾いたお日様バックに赤信号のカウントダウン、デジタル表示の数字はスルー</span></h2>
+<h2><span class="yellow">西の空に傾いたお日様バックに赤信号のカウントダウン、デジタル表示の数字はシャッタースピードの影響でスルー</span></h2>
 <a href="20250918_005.JPG" target="_blank"><img src="20250918_005.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">銀行で本日の両替レートをチェック、円 → バーツは0.2150でちょっと安め</span></h2>
@@ -299,7 +299,7 @@ p.note { display: none; }
 <h2><span class="yellow">入り口ホールのイベントは終了してました</span></h2>
 <a href="20250918_061.JPG" target="_blank"><img src="20250918_061.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">雨上がりの帰り道、赤信号カウントダウンはあと8秒</span></h2>
+<h2><span class="yellow">雨上がりの帰り道、赤信号カウントダウンは今回は撮れてあと8秒</span></h2>
 <a href="20250918_062.JPG" target="_blank"><img src="20250918_062.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">晩御飯はさっき買ったチャーハン弁当</span></h2>
